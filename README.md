@@ -1,3 +1,3 @@
 # ImageApp
 
-Simple Image Gallery web application build with Django and Bootstrap 5 that allows viewing, uploading and deleting images.
+Simple Image Gallery web application built with Django and Bootstrap 5 that allows viewing, uploading, and deleting images.
